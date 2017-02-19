@@ -1,2 +1,2 @@
 # s-wkj.github.io
-blog
+blog bye
